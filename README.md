@@ -3,9 +3,9 @@ Hybrid app for pet localization
 <table>
 <tr>
   <td width="33%">
-<h3 align="center">Login</h3>
+<h3 align="center">Sign up form</h3>
 <div align="center">
-<img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
+<img src="https://i.imgur.com/bmSNIKL.png" width="300" alt="sign up form"> 
   
 
 
@@ -14,9 +14,9 @@ Hybrid app for pet localization
 </td>
 
 <td width="33%">
-<h3 align="center">Home</h3>
+<h3 align="center">Cart</h3>
 <div align="center">
-<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+<img src="https://i.imgur.com/KE3UgLd.png" width="300" alt="cart"> 
   
 
 
@@ -25,9 +25,9 @@ Hybrid app for pet localization
 </td>
 
 <td width="33%">
-<h3 align="center">Map</h3>
+<h3 align="center">Product detail</h3>
 <div align="center">                                       
-<img src="https://i.imgur.com/FVYga0y.jpeg" width="250" alt="pet qr map">
+<img src="https://i.imgur.com/jBWOqLA.png" width="300" alt="product detail">
 <br>
 
 
