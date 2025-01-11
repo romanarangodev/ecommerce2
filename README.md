@@ -1,5 +1,12 @@
 # ecommerce2
 Hybrid app for ecommerce using Woocommerce API
+<h3 align="left">Tools and technologies</h3>
+<ul>
+  <li>Ionic</li>
+  <li>Angular</li>
+  <li>Woocommerce API</li>
+  <li>CSS</li>
+</ul>
 <table>
 <tr>
   <td width="33%">
