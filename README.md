@@ -1,5 +1,5 @@
 # ecommerce2
-Hybrid app for pet localization
+Hybrid app for ecommerce using Woocommerce API
 <table>
 <tr>
   <td width="33%">
